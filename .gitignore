@@ -1,0 +1,13 @@
+.DS_Store
+frontend/node_modules/
+frontend//dist/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend//test/unit/coverage/
+frontend//test/e2e/reports/
+frontend/selenium-debug.log
+populate_data/__pycache__
+webserver/__pycache__
+webserver/env
+.idea
